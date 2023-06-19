@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12230" started-at="2023-06-19T19:14:26 IST" finished-at="2023-06-19T19:14:38 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12230" started-at="2023-06-19T19:14:26 IST" finished-at="2023-06-19T19:14:38 IST">
+      <class name="com.interview.hitachiSolutions.TestClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.interview.hitachiSolutions.TestClass@289d1c02]" name="setUp" is-config="true" duration-ms="8444" started-at="2023-06-19T19:14:26 IST" finished-at="2023-06-19T19:14:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyAddressForIrvine()[pri:0, instance:com.interview.hitachiSolutions.TestClass@289d1c02]" name="VerifyAddressForIrvine" duration-ms="2885" started-at="2023-06-19T19:14:34 IST" finished-at="2023-06-19T19:14:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAddressForIrvine -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.interview.hitachiSolutions.TestClass@289d1c02]" name="tearDown" is-config="true" duration-ms="853" started-at="2023-06-19T19:14:37 IST" finished-at="2023-06-19T19:14:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.interview.hitachiSolutions.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
